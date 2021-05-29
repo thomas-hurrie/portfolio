@@ -44,7 +44,7 @@ h3 {
 }
 
 p {
-	font-size: 0.875em;
+	font-size: 1em;
 	line-height: 1.5;
     color:#132437;
 }
@@ -87,7 +87,7 @@ header nav ul {
 header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: .875em;
+	font-size: 1em;
     padding: 10px 0;
     list-style: none;
 }
@@ -117,10 +117,6 @@ header nav ul li a {
     border-radius: 1em;
 }
 
-.main-title {
-    border-bottom: 1px solid #96B5D9;
-}
-
 .main-title h2 {
 	text-align: center;
 	padding: 5px 0;
@@ -148,6 +144,7 @@ header nav ul li a {
 
 .project-image {
     width: 100%;
+    border: solid 1px #ececec; 
 }
 
 footer {
@@ -203,6 +200,12 @@ footer .contact-items{
         border-right: 1px solid #96B5D9;
         padding: 0 20px;
     }
+
+    .far, 
+    .fab {
+        font-size: 1.5em;
+    }
+
 }
 
 @media only screen and (min-width: 1200px) {
@@ -225,4 +228,10 @@ footer .contact-items{
         display: flex;
         justify-content: space-between;
     }
+
+    .far, 
+    .fab {
+        font-size: 2em;
+    }
+
 }
