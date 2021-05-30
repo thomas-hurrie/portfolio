@@ -28,7 +28,7 @@ h3 {
 }
 
 h1 {
-    color: #132437;
+    color: #2B4F78;
 	font-size: 2em;
 }
 
@@ -40,7 +40,7 @@ h2 {
 h3 {
 	font-size: 1.5em;
     text-align: center;
-    color: #132437;
+    color: #2B4F78;
 }
 
 p {
@@ -58,7 +58,7 @@ ul {
 }
 
 header {
-	border-bottom: 1px solid #96B5D9;
+	border-bottom: 1px solid #96b5d9;
     text-align: center;
     width: 100%;
     display: flex;
@@ -70,7 +70,7 @@ header {
 header h1 {
 	margin: 0;
     padding: 38px 20px 20px 20px; 
-    border-bottom: 1px solid #96B5D9; 
+    border-bottom: 1px solid #96b5d9; 
     width: 100%;
 }
 
@@ -94,7 +94,7 @@ header nav ul li {
 
 header nav ul li a {
 	text-decoration: none;
-	color:#132437;
+	color:#2B4F78;
 }
 
 .top-section,
@@ -120,7 +120,7 @@ header nav ul li a {
 .main-title h2 {
 	text-align: center;
 	padding: 5px 0;
-    color: #347c98;
+    color: #2B4F78;
     font-family: 'Farro', sans-serif;
 }
 
@@ -178,7 +178,7 @@ footer .contact-items{
 
 .far, 
 .fab {
-    color: #4B81BE;
+    color: #4b81be;
     font-size: 1.75em;
 }
 
