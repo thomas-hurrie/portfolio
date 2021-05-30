@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Trade Winds
+- Font Author: Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reserved Font Name "Trade Winds"
+- Font Source: http://fonts.gstatic.com/s/tradewinds/v12/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
