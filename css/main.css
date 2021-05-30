@@ -183,6 +183,33 @@ footer .contact-items{
 }
 
 @media only screen and (min-width: 768px) {
+   
+    .top-section{
+        margin: 75px 0;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    
+    .main-image {
+        justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        flex-basis: 40%;
+        padding-top: 50px;
+    }
+
+    .main-image img {
+        width: 60%;
+    }
+
+    .main-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        flex-basis: 60%;
+    }
+
     .bottom-section{
         justify-content: space-between;
         align-items: flex-start;
@@ -204,6 +231,10 @@ footer .contact-items{
 
     footer {
         border-top: 1px solid #96B5D947;
+    }
+
+    .contact-title {
+        padding-top: 75px;
     }
 
     .far, 
@@ -232,6 +263,14 @@ footer .contact-items{
     header nav ul {
         display: flex;
         justify-content: space-between;
+    }
+
+    .main-image {
+        padding-top: 1em;
+    }
+
+    .main-image img {
+        width: 50%;
     }
 
     .far, 
