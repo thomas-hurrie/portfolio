@@ -58,7 +58,7 @@ ul {
 }
 
 header {
-	border-bottom: 1px solid #96b5d9;
+	border-bottom: 1px solid #96B5D947;
     text-align: center;
     width: 100%;
     display: flex;
@@ -70,7 +70,7 @@ header {
 header h1 {
 	margin: 0;
     padding: 38px 20px 20px 20px; 
-    border-bottom: 1px solid #96b5d9; 
+    border-bottom: 1px solid #96B5D947; 
     width: 100%;
 }
 
@@ -133,7 +133,7 @@ header nav ul li a {
 .section-one,
 .section-two,
 .section-three {
-    border-top: 1px solid #96B5D9;
+    border-top: 1px solid #96B5D947;
     width: 100%;
 }
 
@@ -148,7 +148,7 @@ header nav ul li a {
 }
 
 footer {
-	border-top: 1px solid #96B5D9;
+	border-top: 1px solid #96B5D947;
     text-align: center;
     width: 100%; 
     display: flex;
